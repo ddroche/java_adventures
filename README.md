@@ -1,0 +1,1 @@
+These files are from my adventures in java.  Much of it is from following tutorials to learn the language (particularly the Java_21 directory), but some is also my own code (Tic-Tac-Toe, Calclator, and Euler directories).
